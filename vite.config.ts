@@ -15,5 +15,6 @@ export default defineConfig({
       src: join(__dirname, 'src'),
       app: __dirname
     }
-  }
+  },
+  base: process.env.SLIDE_BASE || '/'
 })
