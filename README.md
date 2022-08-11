@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="public/svg/zisu.svg" width="128">
+  <img src="https://github.com/thezzisu-slides/index/raw/main/public/svg/zisu.svg" width="128">
   <br>
-  <img src="public/svg/text.svg" height="64">
+  <img src="https://github.com/thezzisu-slides/index/raw/main/public/svg/textvar.svg" height="64">
+
+  # Template for Boards
+
 </div>
